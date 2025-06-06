@@ -1,7 +1,6 @@
 
 package com.mycompany.sistemaacademico;
 
-import com.mycompany.sistemaacademico.Clases.Decano;
 import com.mycompany.sistemaacademico.Clases.Empleado;
 import com.mycompany.sistemaacademico.Clases.Estudiantes;
 import com.mycompany.sistemaacademico.Clases.Persona;
