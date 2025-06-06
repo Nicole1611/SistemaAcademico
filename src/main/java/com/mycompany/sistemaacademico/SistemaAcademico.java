@@ -1,6 +1,7 @@
 
 package com.mycompany.sistemaacademico;
 
+import com.mycompany.sistemaacademico.Clases.Decano;
 import com.mycompany.sistemaacademico.Clases.Empleado;
 import com.mycompany.sistemaacademico.Clases.Estudiantes;
 import com.mycompany.sistemaacademico.Clases.Persona;
@@ -40,9 +41,10 @@ public class SistemaAcademico {
         System.out.println("DATOS DEL OBJETO PERSONAL ACADEMICO");
         PersonalServicios personalServicios = new PersonalServicios("Tecnico", 200, "blanca@esp.edu.ec", 7, "Blanca", "blanca@gmail.com", "864524233-7");
         System.out.println(""+personalServicios.toString());
+
         //Profesor
         System.out.println("DATOS DEL OBJETO PROFESOR");
-        Profesor profesor = new Profesor(, 300, "Esther@esp.edu.ec", 8, "Esther", "Esther@gmail.com", "347963150-6")
+        Profesor profesor = new Profesor(8, 300, "Esther@esp.edu.ec", 8, "Esther", "Esther@gmail.com", "347963150-6");
         System.out.println(""+profesor.toString());
-    } 
+    }
 }
