@@ -5,3 +5,6 @@ com\mycompany\sistemaacademico\Clases\Estudiantes.class
 com\mycompany\sistemaacademico\Clases\Empleado.class
 com\mycompany\sistemaacademico\SistemaAcademico.class
 com\mycompany\sistemaacademico\Clases\PersonalAcademico.class
+com\mycompany\sistemaacademico\Clases\Profesor.class
+com\mycompany\sistemaacademico\Clases\PersonalServicios.class
+com\mycompany\sistemaacademico\Clases\Decano.class

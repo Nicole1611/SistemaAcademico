@@ -8,6 +8,33 @@ package com.mycompany.sistemaacademico.Clases;
  *
  * @author anaaw
  */
-public class Decano {
+public class Decano extends PersonalAcademico{
+    //atributos
+    private String nivelJerarquico;
+// constructor
+    public Decano(String nivelJerarjico, double sueldo, String correoInstitucional, int id, String nombre, String correoPersonal, String cedula) {
+        super(sueldo, correoInstitucional, id, nombre, correoPersonal, cedula);
+        this.nivelJerarquico = nivelJerarjico;
+    }
+// set y get 
+
+    public String getNivelJerarjico() {
+        return nivelJerarquico;
+    }
+
+    public void setNivelJerarjico(String nivelJerarjico) {
+        this.nivelJerarquico = nivelJerarjico;
+    }
+    // metodos
+    public String agregarDecano (){
+        return"";
+    }
+
+    @Override
+    public String toString() {
+        return "Decano{" + super.toString()+"nivelJerarquico=" + nivelJerarquico + '}';
+    }
+    
+    
     
 }
