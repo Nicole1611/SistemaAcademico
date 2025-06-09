@@ -9,7 +9,7 @@ import com.mycompany.sistemaacademico.Clases.PersonalAcademico;
 import com.mycompany.sistemaacademico.Clases.PersonalInvitado;
 import com.mycompany.sistemaacademico.Clases.PersonalServicios;
 import com.mycompany.sistemaacademico.Clases.Profesor;
-import com.mycompany.sistemaacademico.Clases.EnumeracionEscalafon;
+//import com.mycompany.sistemaacademico.Clases.EnumeracionEscalafon;
 
 public class SistemaAcademico {
 
@@ -44,7 +44,7 @@ public class SistemaAcademico {
 
         //Profesor
         System.out.println("DATOS DEL OBJETO PROFESOR");
-        Profesor profesor = new Profesor(EnumeracionEscalafon.PRINCIPAL, 300, "Esther@esp.edu.ec", 8, "Esther", "Esther@gmail.com", "347963150-6");
+        Profesor profesor = new Profesor(/*EnumeracionEscalafon.PRINCIPAL*/"7", 300, "Esther@esp.edu.ec", 8, "Esther", "Esther@gmail.com", "347963150-6");
         System.out.println(""+profesor.toString());
     }
 }
