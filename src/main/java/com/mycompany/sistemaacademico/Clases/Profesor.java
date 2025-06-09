@@ -7,25 +7,24 @@ package com.mycompany.sistemaacademico.Clases;
 
 public class Profesor extends PersonalAcademico{
     //Atributos
-    private Escalafon escalafon;
+    private EnumeracionEscalafon escalafon  ;
     //Constructor
 
-    public Profesor(Escalafon escalafon, double sueldo, String correoInstitucional, int id, String nombre, String correoPersonal, String cedula) {
+    public Profesor(EnumeracionEscalafon escalafon, double sueldo, String correoInstitucional, int id, String nombre, String correoPersonal, String cedula) {
         super(sueldo, correoInstitucional, id, nombre, correoPersonal, cedula);
         this.escalafon = escalafon;
     }
-    //Get y Set
-    public Escalafon getEscalafon() {
+     
+    //Get set
+
+    public EnumeracionEscalafon getEscalafon() {
         return escalafon;
     }
 
-    public void setEscalafon(Escalafon escalafon) {
+    public void setEscalafon(EnumeracionEscalafon escalafon) {
         this.escalafon = escalafon;
     }
-    //Metodos
-    public String agregarProfesor(){
-        return "";
-    }
+    
 
     @Override
     public String toString() {
