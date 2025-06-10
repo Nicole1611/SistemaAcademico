@@ -14,6 +14,8 @@ public class Profesor extends PersonalAcademico{
         super(sueldo, correoInstitucional, id, nombre, correoPersonal, cedula);
         this.escalafon = escalafon;
     }
+
+   
     //Get y Set
     public Escalafon getEscalafon() {
         return escalafon;

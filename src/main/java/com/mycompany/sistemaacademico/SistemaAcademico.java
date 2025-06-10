@@ -46,5 +46,9 @@ public class SistemaAcademico {
         System.out.println("DATOS DEL OBJETO PROFESOR");
         Profesor profesor = new Profesor(8, 300, "Esther@esp.edu.ec", 8, "Esther", "Esther@gmail.com", "347963150-6");
         System.out.println(""+profesor.toString());
+        // Decano
+        System.out.println("DATOS DE DECANO ");
+        Decano decano= new Decano("presidente", 1,"Luis@gmail.com ", 3,"LUIS","luis@gmail.com", "123456789");
+        System.out.println(""+decano.toString());
     }
 }
