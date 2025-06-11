@@ -1,7 +1,7 @@
 
 package com.mycompany.sistemaacademico.Clases;
 
-public class Empleado extends PersonaInstitucional{
+public abstract class Empleado extends PersonaInstitucional{
     //Atributos
     private double sueldo;
     
@@ -10,21 +10,12 @@ public class Empleado extends PersonaInstitucional{
         super(correoInstitucional, id, nombre, correoPersonal, cedula);
         this.sueldo = sueldo;
     }
-    //Get y set
-
-    public double getSueldo() {
-        return sueldo;
-    }
-
-    public void setSueldo(double sueldo) {
-        this.sueldo = sueldo;
-    }
 
     //Metodos
     public String agregarEmpleado(){
         return "";
     }
-
+    public abstract boolean verificarCedula();
     @Override
     public String toString() {
         return "Empleado{" +super.toString() + "sueldo=" + sueldo + '}';

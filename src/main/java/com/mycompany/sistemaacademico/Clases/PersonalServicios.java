@@ -27,5 +27,7 @@ public class PersonalServicios extends Empleado{
     public String toString() {
         return "PersonalServicios{"+super.toString() + "gremio=" + gremio + '}';
     }
-    
+     public boolean verificarCedula(){
+        return true;
+    }
 }

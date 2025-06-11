@@ -37,4 +37,5 @@ public class Decano extends PersonalAcademico{
      public boolean verificarCedula(){
         return true;
     }
+     
 }

@@ -1,10 +1,15 @@
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Empleado.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\EnumeracionEscalafon.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Estudiantes.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Persona.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonaInstitucional.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonalAcademico.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonalInvitado.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonalServicios.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Profesor.java
-C:\Users\HP\OneDrive\Documents\A UNIVERSIDAD\P\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\SistemaAcademico.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Decano.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Empleado.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\Estudiantes.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonaInstitucional.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonalAcademico.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonalServicios.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonasExternas\IPersonasExternas.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonasExternas\PersonalExterna.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Clases\PersonasExternas\PersonasExternas.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Persona\Persona.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Profesores\EnumeracionEscalafon.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Profesores\IProfesores.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Profesores\Profesor.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\Profesores\Profesores.java
+C:\Users\SL-LAB1-PG8\Documents\NetBeansProjects\SistemaAcademico\src\main\java\com\mycompany\sistemaacademico\SistemaAcademico.java

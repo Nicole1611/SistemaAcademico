@@ -24,6 +24,9 @@ public class Estudiantes extends PersonaInstitucional{
         return "";
     }
 
+    public boolean verificarCedula(){
+        return true;
+    }
     @Override
     public String toString() {
         return "Estudiantes{" + super.toString()+ "codigo=" + codigo + '}';
