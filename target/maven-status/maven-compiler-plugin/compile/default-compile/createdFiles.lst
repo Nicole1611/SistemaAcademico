@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\mycompany\sistemaacademico\Clases\EnumeracionEscalafon.class
 com\mycompany\sistemaacademico\Clases\Persona.class
 com\mycompany\sistemaacademico\Clases\PersonaInstitucional.class
@@ -8,3 +9,5 @@ com\mycompany\sistemaacademico\SistemaAcademico.class
 com\mycompany\sistemaacademico\Clases\PersonalAcademico.class
 com\mycompany\sistemaacademico\Clases\Profesor.class
 com\mycompany\sistemaacademico\Clases\PersonalServicios.class
+=======
+>>>>>>> dev-Ana
