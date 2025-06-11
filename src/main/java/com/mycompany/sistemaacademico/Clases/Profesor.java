@@ -33,6 +33,8 @@ public class Profesor extends PersonalAcademico{
     public String toString() {
         return "Profesor{" +super.toString()+ "escalafon=" + escalafon + '}';
     }
-    
+     public boolean verificarCedula(){
+        return true;
+    }
     
 }
