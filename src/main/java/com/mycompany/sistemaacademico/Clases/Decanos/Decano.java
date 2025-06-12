@@ -2,7 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.sistemaacademico.Clases;
+package com.mycompany.sistemaacademico.Clases.Decanos;
+
+import com.mycompany.sistemaacademico.Clases.PersonalAcademico;
 
 /**
  *
@@ -26,15 +28,10 @@ public class Decano extends PersonalAcademico{
         this.nivelJerarquico = nivelJerarquico;
     }
     //metodos
-    public String agregarDecano (){
-        return "";
-    }
-
+   
     @Override
     public String toString() {
         return "Decano{" + super.toString()+"nivelJerarquico=" + nivelJerarquico + '}';
     }
-     public boolean verificarCedula(){
-        return true;
-    }
+     
 }
