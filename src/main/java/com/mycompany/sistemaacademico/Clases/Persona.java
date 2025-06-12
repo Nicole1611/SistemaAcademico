@@ -2,7 +2,7 @@
 package com.mycompany.sistemaacademico.Clases;
 
 //Atributos
-public abstract class Persona {
+public class Persona {
     private int id;
     private String nombre;
     private String correoPersonal;
@@ -25,5 +25,4 @@ public abstract class Persona {
     public String agregarPersona(){
         return "";
     }
-    public boolean verificarCEdula()
 }

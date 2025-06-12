@@ -1,6 +1,7 @@
 
 package com.mycompany.sistemaacademico.Clases;
 
+
 import com.mycompany.sistemaacademico.Clases.Empleados.Empleado;
 
 public class PersonalAcademico extends Empleado{
@@ -17,6 +18,6 @@ public class PersonalAcademico extends Empleado{
     public String toString() {
         return "PersonalAcademico{" + super.toString()+ '}';
     }
-    
+     
     
 }

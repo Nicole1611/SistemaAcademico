@@ -1,8 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.mycompany.sistemaacademico.Clases;
+
+package com.mycompany.sistemaacademico.Clases.Profesores;
+
+import com.mycompany.sistemaacademico.Clases.PersonalAcademico;
 
 
 public class Profesor extends PersonalAcademico{
@@ -14,6 +13,8 @@ public class Profesor extends PersonalAcademico{
         super(sueldo, correoInstitucional, id, nombre, correoPersonal, cedula);
         this.escalafon = escalafon;
     }
+     
+    //Get set
 
     public EnumeracionEscalafon getEscalafon() {
         return escalafon;
@@ -24,7 +25,7 @@ public class Profesor extends PersonalAcademico{
     }
     
     
-   
+    
 
     @Override
     public String toString() {
