@@ -14,17 +14,15 @@ public class Profesor extends PersonalAcademico{
         super(sueldo, correoInstitucional, id, nombre, correoPersonal, cedula);
         this.escalafon = escalafon;
     }
-<<<<<<< HEAD
      
     //Get set
 
     public /*EnumeracionEscalafon*/ String getEscalafon() {
-=======
+
 
    
     //Get y Set
     public Escalafon getEscalafon() {
->>>>>>> dev-Ana
         return escalafon;
     }
 
