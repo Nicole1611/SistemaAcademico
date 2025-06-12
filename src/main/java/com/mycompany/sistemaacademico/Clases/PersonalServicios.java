@@ -1,6 +1,8 @@
 
 package com.mycompany.sistemaacademico.Clases;
 
+import com.mycompany.sistemaacademico.Clases.Empleados.Empleado;
+
 public class PersonalServicios extends Empleado{
     //Atributo
     private String gremio;
